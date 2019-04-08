@@ -1,2 +1,2 @@
 # Story
-The world's first open-source story
+Once upon a time
